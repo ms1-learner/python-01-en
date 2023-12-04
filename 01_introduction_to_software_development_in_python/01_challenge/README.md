@@ -2,11 +2,11 @@
 
 Given the following string values:
 
-"3.14"
-"1.68"
-"9"
-"-2.5"
-"-1"
+- "3.14"
+- "1.68"
+- "9"
+- "-2.5"
+- "-1"
 
 In the `convert.py` file, do the following:
 
