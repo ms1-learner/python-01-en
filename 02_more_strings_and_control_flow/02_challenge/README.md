@@ -4,6 +4,6 @@ In the `factorial.py` file, write a program that takes a non-negative integer fr
 
 For instance, the factorial of `5` is `5 x 4 x 3 x 2 x 1`, which equals `120`.
 
-Complete the code inside the `computer_factorial` function that is pre-written for you. We haven't covered user-defined functions yet, but you don't need to know how functions work in order to complete this function.
+Complete the code inside the `computer_factorial` function that is pre-written for you. We haven't covered user-defined functions yet, but you don't need to know how functions work in order to complete this challenge.
 
 > Note: You don't need to test for edge cases like invalid input. We'll learn how to handle edge cases and exceptions later on in the course.
