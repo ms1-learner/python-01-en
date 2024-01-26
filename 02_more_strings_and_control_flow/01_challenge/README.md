@@ -1,6 +1,6 @@
 # Challenge 1
 
-In the `temp_convert.py` file, write a program that takes in two inputs from the user. The first input should be the temperature and the second input should the temperature unit. If the input temperature unit is Fahrenheit, the program should convert it to Celsius and vice versa.
+In the `temp_convert.py` file, write a program that takes in two inputs from the user. The first input should be the temperature and the second input should be the temperature unit. If the input temperature unit is Fahrenheit, the program should convert it to Celsius and vice versa.
 
 - Valid input for temperature degree: any number whether positive or negative.
 - Valid input for temperature unit: `"f"` letter for Fahrenheit and `"c"` letter for Celsius.
