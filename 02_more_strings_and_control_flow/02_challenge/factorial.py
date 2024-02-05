@@ -7,3 +7,6 @@ def compute_factorial():
     result = 0
 
     return result
+
+
+compute_factorial()

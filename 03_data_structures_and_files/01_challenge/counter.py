@@ -14,3 +14,7 @@ def counter():
     ]
 
     # Your code here
+
+    return occurrences
+
+print(counter())
