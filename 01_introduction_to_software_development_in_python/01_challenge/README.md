@@ -10,5 +10,5 @@ Given the following string values:
 
 In the `convert.py` file, do the following:
 
-- Manually convert each string to its correct number representation. Save each converted number to its own variable.
+- Convert each string to its correct number representation using `int()` and `float()` where appropriate. Save each converted number to its own variable.
 - Add together all these variables and print the result.
