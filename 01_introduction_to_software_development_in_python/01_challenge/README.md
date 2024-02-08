@@ -10,10 +10,5 @@ Given the following string values:
 
 In the `convert.py` file, do the following:
 
-- Convert each string that has a dot `"."` to a float using the `float` function. Save the result to a variable.
-- Convert each string that doesn't have a dot `"."`  to an integer using the `int` function. Save the result to a variable.
-- Print the result of the addition of all these variables.
-
-
-
-
+- Convert each string to its correct number representation using `int()` and `float()` where appropriate. Save each converted number to its own variable.
+- Add together all these variables and print the result.
