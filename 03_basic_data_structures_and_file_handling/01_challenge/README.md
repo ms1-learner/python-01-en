@@ -16,7 +16,7 @@ kiwi: 1
 strawberry: 1
 ```
 
-Complete the code inside the `counter` function that is pre-written for you. We haven't covered user-defined functions yet, but you don't need to know how functions work in order to complete this challenge.
+Complete the code inside the `counter` function that is pre-written for you. We haven't covered user-defined functions yet, but you don't need to know how functions work to complete this Challenge.
 
 
 

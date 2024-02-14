@@ -17,4 +17,4 @@ def counter():
 
     return occurrences
 
-counter()
+print(counter())
