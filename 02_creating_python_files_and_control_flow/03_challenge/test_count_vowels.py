@@ -6,7 +6,7 @@ from unittest.mock import patch
 class TestFunction(unittest.TestCase):
     @patch("builtins.input", lambda _: "Hello world!")
     def test_convert(self):
-        with unittest.mock.patch("sys.stdout", new_callable=io.StringIO) as mock_stdout:
+        with patch("sys.stdout", new_callable=io.StringIO) as mock_stdout:
             import count_vowels
 
             count_vowels
