@@ -1,4 +1,4 @@
 # Challenge 2
 
-In `main.py`, replace a question mark with the corresponding Python code for each question.
+Complete the Python expression in `main.py` so that it passes all the tests.
 Be sure to write the formula instead of putting the result of the calculation.
