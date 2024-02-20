@@ -44,13 +44,13 @@ fahrenheit = 98.6
 # Your code here
 celsius = 
 
-# 12. Given a rectangle with length 5 units and width 3 units, what is its perimeter?
+# 12. Given a rectangle with length 5 and width 3, what is its perimeter?
 length = 5
 width = 3
 # Your code here
 perimeter = 
 
-# 13. Calculate the area of a circle with a radius of 5 units.
+# 13. Calculate the area of a circle with a radius of 5.
 # Hint: You may want to know how to use math.pi.
 radius = 5
 # Your code here
@@ -61,13 +61,13 @@ km_per_hour = 100
 # Your code here
 meters_per_second = 
 
-# 15. Given a right triangle with sides of lengths 3 and 4 units, what is the length of the hypotenuse?
+# 15. Given a right triangle with sides of lengths 3 and 4, what is the length of the hypotenuse?
 side1 = 3
 side2 = 4
 # Your code here
 hypotenuse = 
 
-# 16. Find the volume of a sphere with a radius of 5 units.
+# 16. Find the volume of a sphere with a radius of 5.
 radius_sphere = 5
 # Your code here
 volume_sphere = 

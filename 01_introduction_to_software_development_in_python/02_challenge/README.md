@@ -1,4 +1,5 @@
 # Challenge 2
 
-Complete the Python expression in `main.py` so that it passes all the tests.
-Be sure to write the formula instead of putting the result of the calculation.
+Complete the Python expressions in `main.py` to pass all the tests.
+
+You are expected insert the formula to solves each problem, rather than inserting the expected result of each calculation.
