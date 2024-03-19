@@ -8,6 +8,6 @@ Here are the basic rules of the game:
 - **Scissors cuts Paper**: Scissors wins against paper because scissors can cut through paper.
 - **Paper covers Rock**: Paper wins against rock because paper can cover or wrap around rock.
 
-Write a program in `main.py` that simulates the rock paper scissors game between two players — the computer and yourself.
+Write a program in `rock_papre_scissors.py` that simulates the rock paper scissors game between two players — the computer and yourself.
 
 You should use the `random` module to produce random numbers that can be used in the computer decision.
