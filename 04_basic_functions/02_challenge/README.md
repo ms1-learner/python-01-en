@@ -12,9 +12,9 @@ Do your research on how to use `ord` and `chr` and make sure your program handle
 
 Examples
 ```python
-encode("Hello World")  # 72 101 108 108 111 32 119 111 114 108 100
+encode("Hello world")  # 72 101 108 108 111 32 119 111 114 108 100
 ```
 
 ```python
-decode("72 101 108 108 111 32 119 111 114 108 100")  # Hello World
+decode("72 101 108 108 111 32 119 111 114 108 100")  # Hello world
 ```
